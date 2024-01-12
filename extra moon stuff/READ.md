@@ -1,0 +1,1 @@
+This folder contains stuff I was too lazy to document.

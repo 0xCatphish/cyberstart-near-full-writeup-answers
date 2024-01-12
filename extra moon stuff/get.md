@@ -1,0 +1,14 @@
+url="https://roambarcelona.com/clock-pt{}?verify=Na2Q%2BeqhSP5hTRLDwpTNoA%3D%3D"
+flag="https://roambarcelona.com/get-flag?verify=Na2Q%2BeqhSP5hTRLDwpTNoA%3D%3D&string="
+
+
+import urllib.request
+
+
+contents=[]
+
+for i in range(1,6):
+    contents.append(str(urllib.request.urlopen(url.format(i)).read()).strip("b'"))
+    print(contents)
+
+print(urllib.request.urlopen(flag+"".join(contents)).read())
