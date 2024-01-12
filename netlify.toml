@@ -4,7 +4,7 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "Click to steal some brains"
+LANDING_BUTTON = "Click to steal some stupidity"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "I have nothing but stupidity."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
