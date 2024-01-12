@@ -1,5 +1,5 @@
 # My Cyberstart Notebook
-Check out the [[TABLE OF CONTENTS]] to quickly jump to specific challenges.
+**Check out** the **[[TABLE OF CONTENTS]]** to quickly jump to specific challenges.
 
 **Consider joining my discord to say hi!**
 https://discord.gg/QqEK6xBFNV
